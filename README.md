@@ -2,9 +2,9 @@
 
 This Project is my first in Flutter and Dart
 
-I  built a simple prfile card for myself.
+I  built a simple profile card for myself.
 
-In this projects, I started learning about flutter widgets.
+In this project, I started learning about flutter widgets.
 
 In this project, Ive learnt about widgets like Scaffold, Material App, Rows and Colums.
 
